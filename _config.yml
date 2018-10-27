@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Wendy
 organization: UESTC
-organization_url: http://mmcwendy.info
-github_username: DWJWendy
+organization_url: https://fei5156.github.io/CX.github.io
+github_username: fei5156
 location: Chengdu, sichuan
 email: dengwenjun818@gmail.com
 
@@ -85,7 +85,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: DWJWendy/DWJWendy.github.io
+repository: fei5156/CX.github.io
 
 # ---------------- # 
 #      Comments    #
